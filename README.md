@@ -18,9 +18,10 @@ Here’s a preview of the game:
 
 ### 🎥 **Video Demo**
 
-Watch the game in action! Click the thumbnail below to see the game play out:
+Watch the game in action! Click the link below to download and watch the game video:
 
-[![Watch the Snake Game in Action](snake.png)](snakegame.mp4)
+[Download Snake Game Video](snakegame.mp4)
+
 
 ---
 
