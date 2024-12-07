@@ -38,7 +38,7 @@ To play the game, follow these easy steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/Oliveya-15/SnakeGame_Python.git
 2. Install dependencies: Ensure you have Python and Pygame installed. Run: >> pip install pygame
 3. Run the game: Start the game by running: >> python snake.py
 
