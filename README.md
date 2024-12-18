@@ -47,6 +47,7 @@ To play the game, follow these easy steps:
 Arrow Keys: Move the snake up, down, left, and right.
 Play Again Button: Restart the game after losing.
 Quit Button: Close the game after finishing.
+
 🌟 **Contributing**
 Contributions are welcome! If you'd like to improve this project, feel free to fork it and submit a pull request. If you find any bugs or want to suggest new features, open an issue!
 
