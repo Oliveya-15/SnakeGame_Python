@@ -40,21 +40,18 @@ To play the game, follow these easy steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Oliveya-15/SnakeGame_Python.git
-2. Install dependencies: Ensure you have Python and Pygame installed. Run: >> pip install pygame
-3. Run the game: Start the game by running: >> python snake.py
+2. **Install dependencies**: Ensure you have Python and Pygame installed. Run: >> pip install pygame
+3. **Run the game**: Start the game by running: >> python snake.py
 
-🎮 Controls
+🎮 **Controls**
 Arrow Keys: Move the snake up, down, left, and right.
 Play Again Button: Restart the game after losing.
 Quit Button: Close the game after finishing.
-🌟 Contributing
+🌟 **Contributing**
 Contributions are welcome! If you'd like to improve this project, feel free to fork it and submit a pull request. If you find any bugs or want to suggest new features, open an issue!
 
-📄 License
+📄 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-💬 Feedback
+💬 **Feedback**
 I’d love to hear your thoughts! Please feel free to leave feedback, report bugs, or suggest new features via GitHub issues. You can also reach me at choudhuryoliveya15@gmail.com.
-
-
-
